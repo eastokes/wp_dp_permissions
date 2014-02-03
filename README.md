@@ -1,4 +1,4 @@
 wp_dp_permissions
 =================
 
-Scripts for Wordpress &amp; Drupal web directory permissions setup.
+Bash scripts for Wordpress &amp; Drupal web directory permissions setup.
