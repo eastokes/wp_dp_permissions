@@ -5,6 +5,7 @@
 #
 # Author: Michael Conigliaro <mike [at] conigliaro [dot] org>
 #
+
 WP_OWNER=stoke # <-- wordpress owner
 WP_GROUP=www-data # <-- wordpress group
 WP_ROOT=$(pwd) # <-- wordpress root directory
